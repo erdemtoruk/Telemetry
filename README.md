@@ -8,7 +8,7 @@ This repository contains the compiled version of the ITU Racing Telemetry System
 ## 📦 Download and Run
 
 1. Go to the [Releases](https://github.com/erdemtoruk/Telemetry/releases) page
-2. Download the latest ZIP file (`Telemetry_v0.1.zip`)
+2. Download the latest ZIP file (`Telemetry_v1.zip`)
 3. Extract the ZIP archive
 4. Run `Telemetry.exe`
 
